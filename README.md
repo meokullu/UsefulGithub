@@ -104,5 +104,11 @@ Useful Github features for repo, including Nuget packages.
 * [![GitHub followers](https://img.shields.io/github/followers/meokullu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/meokullu?tab=followers)
 ***
 
+### Contributors
+```[![GitHub contributors](https://img.shields.io/github/contributors/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/graphs/contributors/)```
+* [![GitHub contributors](https://img.shields.io/github/contributors/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/graphs/contributors/)
+***
 
-
+### Issues
+```[![GitHub issues](https://img.shields.io/github/issues/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues/)```
+* [![GitHub issues](https://img.shields.io/github/issues/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues/)
