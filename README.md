@@ -61,7 +61,48 @@ Useful Github features for repo, including Nuget packages.
 * [![GitHub commits](https://img.shields.io/github/commits-since/meokullu/CalculateETA/v1.1.0)](https://GitHub.com/meokullu/CalculateETA/commit/)
 ***
 
-## Commit
+###  Commit
 ```[![GitHub commits](https://badgen.net/github/commits/meokullu/CalculateETA)](https://GitHub.com/meokullu/CalculateETA/commit/)```
 * [![GitHub commits](https://badgen.net/github/commits/meokullu/CalculateETA)](https://GitHub.com/meokullu/CalculateETA/commit/)
 ***
+
+### Last commit
+```[![GitHub latest commit](https://badgen.net/github/last-commit/meokullu/CalculateETA)](https://GitHub.com/meokullu/CalculateETA/commit/)```
+* [![GitHub latest commit](https://badgen.net/github/last-commit/meokullu/CalculateETA)](https://GitHub.com/meokullu/CalculateETA/commit/)
+***
+
+### Download release
+```[![Github all releases](https://img.shields.io/github/downloads/meokullu/CalculateETA/total.svg)](https://GitHub.com/meokullu/CalculateETA/releases/)```
+* [![Github all releases](https://img.shields.io/github/downloads/meokullu/CalculateETA/total.svg)](https://GitHub.com/meokullu/CalculateETA/releases/)
+***
+
+```[![Github releases (by release)](https://img.shields.io/github/downloads/meokullu/CalculateETA/v1.7.1/total.svg)](https://GitHub.com/meokullu/CalculateETA/releases/)```
+* [![Github releases (by release)](https://img.shields.io/github/downloads/meokullu/CalculateETA/v1.7.1/total.svg)](https://GitHub.com/meokullu/CalculateETA/releases/)
+***
+
+```[![Github releases (by asset)](https://img.shields.io/github/downloads/meokullu/CalculateETA/latest/README.md)](https://GitHub.com/meokullu/README.md/releases/)```
+* [![Github releases (by asset)](https://img.shields.io/github/downloads/meokullu/CalculateETA/latest/README.md)](https://GitHub.com/meokullu/CalculateETA/releases/)
+***
+
+### Forks
+```[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)```
+* [![GitHub forks](https://img.shields.io/github/forks/meokullu/CalculateETA.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/network/)
+***
+
+### Stars
+```[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)```
+* [![GitHub stars](https://img.shields.io/github/stars/meokullu/CalculateETA.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/stargazers/)
+***
+
+### Watchers
+```[![GitHub watchers](https://img.shields.io/github/watchers/meokullu/CalculateETA.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/watchers/)```
+* [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+***
+
+### Profile followers
+```[![GitHub followers](https://img.shields.io/github/followers/meokullu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/meokullu?tab=followers)```
+* [![GitHub followers](https://img.shields.io/github/followers/meokullu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/meokullu?tab=followers)
+***
+
+
+
