@@ -32,7 +32,7 @@ Useful Github features for repo, including Nuget packages.
 
 ### Branches
 
-```[![GitHub branches](https://badgen.net/github/branches/meokullu/CalculateETA)](https://github.com/Naereen/meokullu/CalculateETA/)```
+```[![GitHub branches](https://badgen.net/github/branches/meokullu/CalculateETA)](https://github.com/meokullu/CalculateETA/)```
 * [![GitHub branches](https://badgen.net/github/branches/meokullu/CalculateETA)](https://github.com/meokullu/CalculateETA)
 ***
 
@@ -85,12 +85,12 @@ Useful Github features for repo, including Nuget packages.
 ***
 
 ### Forks
-```[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)```
+```[![GitHub forks](https://img.shields.io/github/forks/meokullu/CalculateETA.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/network/)```
 * [![GitHub forks](https://img.shields.io/github/forks/meokullu/CalculateETA.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/network/)
 ***
 
 ### Stars
-```[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)```
+```[![GitHub stars](https://img.shields.io/github/stars/meokullu/CalculateETA.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/stargazers/)```
 * [![GitHub stars](https://img.shields.io/github/stars/meokullu/CalculateETA.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/stargazers/)
 ***
 
