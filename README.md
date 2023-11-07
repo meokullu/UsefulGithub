@@ -154,3 +154,18 @@ Useful Github features for repo, including Nuget packages.
 [![GitHub issues](https://img.shields.io/github/issues/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues/)
 ```
 * [![GitHub issues](https://img.shields.io/github/issues/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues/)
+***
+
+### Issues open
+```
+[![GitHub issues-open](https://badgen.net/github/open-issues/meokullu/CalculateETA)](https://github.com/meokullu/CalculateETA/issues?q=is%3Aopen)
+```
+* [![GitHub issues-open](https://badgen.net/github/open-issues/meokullu/CalculateETA)](https://github.com/meokullu/CalculateETA/issues?q=is%3Aopen)
+***
+
+### Issues closed
+```
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues?q=is%3Aissue+is%3Aclosed)
+```
+* [![GitHub issues-closed](https://img.shields.io/github/issues-closed/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues?q=is%3Aissue+is%3Aclosed)
+***
