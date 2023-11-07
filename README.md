@@ -85,18 +85,18 @@ Useful Github features for repo, including Nuget packages.
 ***
 
 ### Forks
-```[![GitHub forks](https://img.shields.io/github/forks/meokullu/CalculateETA.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/network/)```
-* [![GitHub forks](https://img.shields.io/github/forks/meokullu/CalculateETA.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/network/)
+```[![GitHub forks](https://badgen.net//github/forks/meokullu/CalculateETA.svg?style=social&label=Fork&maxAge=2592000)](https://badgen.net//meokullu/CalculateETA/network/)```
+* [![GitHub forks](https://badgen.net/github/forks/meokullu/CalculateETA/)](https://GitHub.com/meokullu/CalculateETA/network/)
 ***
 
 ### Stars
-```[![GitHub stars](https://img.shields.io/github/stars/meokullu/CalculateETA.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/stargazers/)```
-* [![GitHub stars](https://img.shields.io/github/stars/meokullu/CalculateETA.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/stargazers/)
+```[![GitHub stars](https://badgen.net/github/stars/meokullu/CalculateETA.svg)](https://badgen.net/meokullu/CalculateETA/stargazers/)```
+* [![GitHub stars](https://badgen.net/github/stars/meokullu/CalculateETA)](https://badgen.net/meokullu/CalculateETA/stargazers/)
 ***
 
 ### Watchers
 ```[![GitHub watchers](https://img.shields.io/github/watchers/meokullu/CalculateETA.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/watchers/)```
-* [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+* [![GitHub watchers](https://img.shields.io/github/watchers/meokullu/CalculateETA.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/meokullu/CalculateETA/watchers/)
 ***
 
 ### Profile followers
