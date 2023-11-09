@@ -1,5 +1,7 @@
 # UsefulGithub
-Useful Github features for repo, including Nuget packages.
+Useful Github features for repo, including NuGet packages.
+
+## Repo
 
 ## Nuget Badges
 
@@ -168,4 +170,25 @@ Useful Github features for repo, including Nuget packages.
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues?q=is%3Aissue+is%3Aclosed)
 ```
 * [![GitHub issues-closed](https://img.shields.io/github/issues-closed/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues?q=is%3Aissue+is%3Aclosed)
+***
+
+### Code size
+```
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues?q=is%3Aissue+is%3Aclosed)
+```
+* [![GitHub code size](https://img.shields.io/github/languages/code-size/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/)
+***
+
+### Language
+```
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues?q=is%3Aissue+is%3Aclosed)
+```
+* [![GitHub code size](https://img.shields.io/github/languages/top/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/)
+***
+
+### Language
+```
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues?q=is%3Aissue+is%3Aclosed)
+```
+* [![GitHub code size](https://img.shields.io/github/languages/count/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/)
 ***
