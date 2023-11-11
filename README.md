@@ -194,3 +194,19 @@ Useful Github features for repo, including NuGet packages.
 ```
 * [![GitHub code size](https://img.shields.io/github/languages/count/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/)
 ***
+
+### Task list
+* Create an issue or check task list: [Issues](https://github.com/meokullu/UsefulGithub/issues)
+
+### Licence
+This repository is licensed under the "MIT" license. See [MIT license](https://github.com/meokullu/UsefulGithub/blob/master/LICENSE).
+
+### Contributing
+
+If you'd like to contribute, then contribute.
+
+[![Contributors](https://contrib.rocks/image?repo=meokullu/UsefulGithub)](https://github.com/meokullu/UsefulGithub/graphs/contributors)
+
+### Help
+Twitter: Enes Okullu [@enesokullu](https://twitter.com/EnesOkullu)
+
