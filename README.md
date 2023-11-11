@@ -3,7 +3,7 @@ Useful Github features for repo, including NuGet packages.
 
 ## Repo
 
-* Quick Repo Tag 
+* Quick Repo Tag [Repo tags](https://github.com/meokullu/UsefulGithub/blob/main/RepoTag.md)
 
 ## Nuget Badges
 
