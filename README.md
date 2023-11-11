@@ -3,6 +3,8 @@ Useful Github features for repo, including NuGet packages.
 
 ## Repo
 
+* Quick Repo Tag 
+
 ## Nuget Badges
 
 ### Stable version
@@ -118,14 +120,14 @@ Useful Github features for repo, including NuGet packages.
 
 ### Forks
 ```
-[![GitHub forks](https://badgen.net//github/forks/meokullu/CalculateETA.svg?style=social&label=Fork&maxAge=2592000)](https://badgen.net//meokullu/CalculateETA/network/)
+[![GitHub forks](https://badgen.net/github/forks/meokullu/CalculateETA/)](https://badgen.net//meokullu/CalculateETA/network/)
 ```
 * [![GitHub forks](https://badgen.net/github/forks/meokullu/CalculateETA/)](https://GitHub.com/meokullu/CalculateETA/network/)
 ***
 
 ### Stars
 ```
-[![GitHub stars](https://badgen.net/github/stars/meokullu/CalculateETA.svg)](https://badgen.net/meokullu/CalculateETA/stargazers/)
+[![GitHub stars](https://badgen.net/github/stars/meokullu/CalculateETA)](https://badgen.net/meokullu/CalculateETA/stargazers/)
 ```
 * [![GitHub stars](https://badgen.net/github/stars/meokullu/CalculateETA)](https://badgen.net/meokullu/CalculateETA/stargazers/)
 ***
@@ -188,7 +190,7 @@ Useful Github features for repo, including NuGet packages.
 
 ### Language
 ```
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub code size](https://img.shields.io/github/languages/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/)
 ```
 * [![GitHub code size](https://img.shields.io/github/languages/count/meokullu/CalculateETA.svg)](https://GitHub.com/meokullu/CalculateETA/)
 ***
